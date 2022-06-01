@@ -1,5 +1,6 @@
 # PatternCreator
-Simple tool that converts a pattern to a sig + mask and other way around
+Simple tool that converts a pattern to a sig + mask and other way around.
+0x00 gets converted to ? (Wildcard) and other way round
 
 # Example: 
 ```
