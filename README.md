@@ -1,6 +1,8 @@
 # PatternCreator
 Simple tool that converts a pattern to a sig + mask and other way around.
-0x00 gets converted to ? (Wildcard) and other way round
+0x00 gets converted to ? (Wildcard) and other way round.
+
+I created this as it was always a pain when i had a sig in vs but couldnt use it for the binary search in IDA pro, so i just made a simple tool that does the work for you.
 
 # Example: 
 ```
